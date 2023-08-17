@@ -6,4 +6,4 @@ cd project-name
 npm install
 ```
 
-Posted at : Date.format(new Date("10 Jan 2011"), "%B %d, %Y");
+Posted at : 17/08/2023;
